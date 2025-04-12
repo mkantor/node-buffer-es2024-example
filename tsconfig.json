@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "Node18",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "target": "ES2024"
+  }
+}
